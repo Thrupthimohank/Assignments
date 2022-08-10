@@ -1,0 +1,7 @@
+1). Set up git with one origin Id
+2). git ssh setup
+3). create repository
+4). git commands for command prompt for pull, push, creating new branch, git reset, and all basic commands
+5). git setup for visual studio code
+6). multiple git accounts for visual studio code
+

@@ -1,0 +1,19 @@
+1) git verson   ->git --version
+2) adding user and email
+		->git config --global user.name "--"
+		->git config --global user.email "--"
+3)check the user and email
+		->git config --global user.name
+		->git config --global user.email
+		->git config --global --list			
+
+4)creating empty repositry
+		->git init
+5)Finding status 
+		->git status
+6)Adding files
+		->git add "file_name" OR  -> git add .
+7)Comminting changes
+		-> git commit -m "msg"
+8)Pushing the file
+		-> git push -u orign master OR ->git push -u "url" master
